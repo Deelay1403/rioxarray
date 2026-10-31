@@ -10,7 +10,7 @@ Latest
   coordinates, which also fixes the output size of ``rio.reproject`` with
   ``src_geoloc_array`` (issue #848)
 
-- DOC: Add writing files section to getting started (issue #584)
+- DOC: Add file I/O page with writing files section (issue #584)
 
 0.23.0
 ------
